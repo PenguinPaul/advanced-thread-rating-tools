@@ -17,7 +17,7 @@ function atrt_info()
 		"author"		=> "Paul H.",
 		"authorsite"	=> "http://www.paulhedman.com",
 		"version"		=> "1.0",
-		"guid" 			=> "",
+		"codename"		=> "atrt",
 		"compatibility" => "*"
 	);
 }
